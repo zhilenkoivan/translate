@@ -1,0 +1,27 @@
+<svg width="51" height="37" viewBox="0 0 51 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Jordan (JO)" clip-path="url(#clip0_1_205)">
+<g id="Clip path group">
+<mask id="mask0_1_205" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="51" height="37">
+<g id="a">
+<path id="Vector" d="M0.97583 0H50.9709V37H0.97583V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_1_205)">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M0.97583 0H75.9758V12.3357H0.97583V0Z" fill="#1D1F21"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M0.97583 12.3357H75.9758V24.6642H0.97583V12.3357Z" fill="white"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M0.97583 24.6643H75.9758V37H0.97583V24.6643Z" fill="#009900"/>
+<path id="Vector_5" fill-rule="evenodd" clip-rule="evenodd" d="M0.97583 37L38.4758 18.5L0.97583 0V37Z" fill="#FF0000"/>
+<path id="Vector_6" fill-rule="evenodd" clip-rule="evenodd" d="M11.3987 20.8852L11.8162 19.0857H9.94849L11.6331 18.2908L10.4685 16.8527L12.1531 17.6477L12.5632 15.8555L12.9807 17.6549L14.658 16.8527L13.4861 18.2908L15.1707 19.0857H13.3103L13.7278 20.8852L12.5632 19.4398L11.3987 20.8852Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_205">
+<rect width="50" height="37" fill="white" transform="translate(0.971924)"/>
+</clipPath>
+</defs>
+</svg>

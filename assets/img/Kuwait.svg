@@ -1,0 +1,24 @@
+<svg width="51" height="37" viewBox="0 0 51 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Kuwait (KW)" clip-path="url(#clip0_1_535)">
+<g id="Clip path group">
+<mask id="mask0_1_535" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="51" height="37">
+<g id="a">
+<path id="Vector" d="M0.115967 0H50.1184V37H0.115967V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_1_535)">
+<g id="Group">
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M0.115967 12.3281H75.116V24.6639H0.115967V12.3281Z" fill="white"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M0.115967 24.6643H75.116V37H0.115967V24.6643Z" fill="#F31830"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M0.115967 0H75.116V12.3357H0.115967V0Z" fill="#00D941"/>
+<path id="Vector_5" fill-rule="evenodd" clip-rule="evenodd" d="M0.115967 0V37L18.822 24.6643L18.866 12.3213L0.115967 0Z" fill="#1D1F21"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_535">
+<rect width="50" height="37" fill="white" transform="translate(0.115967)"/>
+</clipPath>
+</defs>
+</svg>
